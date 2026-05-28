@@ -7,7 +7,7 @@ A full-stack Splitwise-inspired expense sharing application built as part of an 
 Frontend URL:
 
 ```text id="n7qy1m"
-(Add your Vercel URL here)
+https://splitwise-clone-lime.vercel.app/login
 ```
 
 ## GitHub Repository
