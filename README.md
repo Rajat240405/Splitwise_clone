@@ -13,7 +13,7 @@ Frontend URL:
 ## GitHub Repository
 
 ```text id="r2kf9w"
-(Add your GitHub repo link here)
+https://github.com/Rajat240405/Splitwise_clone.git
 ```
 
 ---
@@ -145,9 +145,36 @@ AI tools were used as engineering collaborators while maintaining human-guided a
 
 (Add screenshots here)
 
-* Login Page
-* Dashboard
-* Group Details
-* Add Expense
-* Balances
-* Settlement History
+# Screenshots
+
+## Login Page
+
+<img width="1919" height="866" alt="login page" src="https://github.com/user-attachments/assets/0cf6d4fb-f08d-4d56-9aac-e543e1ae10c0" />
+
+
+---
+
+## Dashboard
+
+<img width="1919" height="869" alt="dashboard" src="https://github.com/user-attachments/assets/0a136c02-b966-474d-ab5e-5dcb37dfdeee" />
+
+
+---
+
+## Groups
+
+<img width="1919" height="872" alt="groups" src="https://github.com/user-attachments/assets/c2886132-7213-4819-8a6a-a8157e9a83ac" />
+
+
+---
+
+## Create Group
+
+<img width="1918" height="872" alt="create_group" src="https://github.com/user-attachments/assets/7fdde181-c3c6-4f17-8d97-e927b1bd47ba" />
+
+---
+
+## Group Details
+
+<img width="1919" height="870" alt="group_details" src="https://github.com/user-attachments/assets/34bbbdf4-a1ee-44a4-83b9-35113155c156" />
+
