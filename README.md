@@ -95,15 +95,22 @@ npm install
 npm run dev
 ```
 
-## Backend
+## Backend Hosting Note
 
-```bash id="q6hx8n"
+The backend runs successfully locally using MongoDB Atlas.
+
+Due to free-tier hosting limitations during submission, the backend is included fully in the repository with complete setup instructions.
+
+To run locally:
+
+```bash
 cd server
 npm install
 npm run dev
 ```
 
----
+Required environment variables are documented in `.env.example`.
+
 
 # AI-Assisted Development Workflow
 
